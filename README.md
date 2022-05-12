@@ -14,6 +14,7 @@ Collection of code to work with the [Uber H3 hierarchical hexagon](https://githu
     resolution            h3 resolution of the hexagon fill
 
     optional arguments:
+    -b, --buffer          Buffer the input GeoJSON by twice a hexagon's edge length
     -h, --help            show this help message and exit
 
 
